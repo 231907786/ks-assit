@@ -1,7 +1,9 @@
+import 'babel-core/register'
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './pages/addCategoryForm';
 import './index.css';
+
+import App from './pages/queryInventory'
 
 ReactDOM.render(
   <App />,
