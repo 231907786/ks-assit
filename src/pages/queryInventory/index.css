@@ -9,6 +9,7 @@
   background-color: #fafafa;
   width: 70%;
   height: 40%;
+  max-width: 600px;
   min-height: 260px;
   border-radius: 5px;
   border: 2px solid #6ac0ff;
